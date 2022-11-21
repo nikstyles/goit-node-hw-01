@@ -1,4 +1,4 @@
-goit-node-hw-01
+# goit-node-hw-01
 
 Получаем и выводим весь список контактов в виде таблицы (console.table) <br/>
 :white_check_mark: https://prnt.sc/RCUmVKaKMG4F
